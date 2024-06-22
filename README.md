@@ -21,5 +21,5 @@
 
 <br></br>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KateParfelova&theme=merko&radius=10&title_color=e4bf7a&color=e4bf7a&bg_color=282C34&line=81a36c&hide_border=true&point=df6d74" width="94%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KateParfelova&theme=merko&radius=10&title_color=e4bf7a&color=e4bf7a&bg_color=282C34&line=81a36c&hide_border=true&point=df6d74" width="95%">
 </div>
