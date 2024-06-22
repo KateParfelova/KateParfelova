@@ -1,3 +1,3 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="500">
+<img src="res/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba">
 <br><br>
 ## Hello, World! I am Kate
