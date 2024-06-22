@@ -14,9 +14,9 @@
 <h2 align="center">𝕄𝕪 𝕤𝕥𝕒𝕥𝕚𝕤𝕥𝕚𝕔𝕤</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KateParfelova&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&card_width=320&order=1" height="300" width="40%" alt="stats graph">
+  <img src="https://github-readme-stats.vercel.app/api?username=KateParfelova&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&card_width=320&order=1" height="200" width="45%" alt="stats graph">
  <img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kateparfelova&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&order=2" height="300" width="40%" alt="languages graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kateparfelova&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&order=2" height="200" width="45%" alt="languages graph">
 </div>
 
 <br></br>
