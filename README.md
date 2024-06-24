@@ -3,7 +3,7 @@
 <div align=center>
 <h2>𝔐𝔶 𝔰𝔭𝔬𝔱𝔦𝔣𝔶 𝔭𝔩𝔞𝔶𝔩𝔦𝔰𝔱</h2>
   
-  [![Spotify](https://novatorem-kate.vercel.app/api/spotify?background_color=d5a89a&border_color=ffffff&border-width=thick)](https://open.spotify.com/user/ohvej2jr68p7h9g8yib1lfzl9)
+  [![Spotify](https://novatorem-kate.vercel.app/api/spotify?background_color=d5a89a&border_color=ffffff&border-width=thick)](https://open.spotify.com/user/p8n4aem87magkcew52wj68gcj)
  </div>
  
 <h2 align="center">𝕄𝕪 𝕤𝕜𝕚𝕝𝕝𝕤</h2>
