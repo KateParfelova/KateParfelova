@@ -5,7 +5,7 @@
 <div align=center>
 <h2>𝔐𝔶 𝔰𝔭𝔬𝔱𝔦𝔣𝔶 𝔭𝔩𝔞𝔶𝔩𝔦𝔰𝔱</h2>
   
-  [![Spotify](https://novatorem-kate.vercel.app/api/spotify?background_color=ffffff&border_color=c9cd8c&border-width=thick)](https://open.spotify.com/user/ohvej2jr68p7h9g8yib1lfzl9)
+  [![Spotify](https://novatorem-kate.vercel.app/api/spotify?background_color=c9cd8c&border_color=ffffff&border-width=thick)](https://open.spotify.com/user/ohvej2jr68p7h9g8yib1lfzl9)
  </div>
  
 <br></br>
