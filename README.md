@@ -11,6 +11,8 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
 
+[![Spotify](https://novatorem-kate.vercel.app/api/spotify)](https://open.spotify.com/user/ohvej2jr68p7h9g8yib1lfzl9)
+
 <h2 align="center">𝕄𝕪 𝕤𝕥𝕒𝕥𝕚𝕤𝕥𝕚𝕔𝕤</h2>
 
 <div align="center">
