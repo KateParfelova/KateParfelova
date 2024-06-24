@@ -23,6 +23,6 @@
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KateParfelova&theme=merko&radius=10&title_color=e4bf7a&color=e4bf7a&bg_color=282C34&line=81a36c&hide_border=true&point=df6d74" width="95%">
 </div>
-<div align="center">
-  [![Spotify](https://novatorem-kate.vercel.app/api/spotify)](https://open.spotify.com/user/ohvej2jr68p7h9g8yib1lfzl9)
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem-kate.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ohvej2jr68p7h9g8yib1lfzl9)
 </div>
