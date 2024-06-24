@@ -1,14 +1,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="2000" align="center">
 <h1 align="center"> 🦁~ℌ𝔢𝔩𝔩𝔬, 𝔚𝔬𝔯𝔩𝔡! ℑ 𝔞𝔪 𝔎𝔞𝔱𝔢~🦁 </h1>
-<br></br>
-
 <div align=center>
 <h2>𝔐𝔶 𝔰𝔭𝔬𝔱𝔦𝔣𝔶 𝔭𝔩𝔞𝔶𝔩𝔦𝔰𝔱</h2>
   
   [![Spotify](https://novatorem-kate.vercel.app/api/spotify?background_color=d5a89a&border_color=ffffff&border-width=thick)](https://open.spotify.com/user/ohvej2jr68p7h9g8yib1lfzl9)
  </div>
  
-<br></br>
 <h2 align="center">𝕄𝕪 𝕤𝕜𝕚𝕝𝕝𝕤</h2>
   
 <div align="center">
