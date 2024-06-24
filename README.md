@@ -11,8 +11,6 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
 
-[![Spotify](https://novatorem-kate.vercel.app/api/spotify)](https://open.spotify.com/user/ohvej2jr68p7h9g8yib1lfzl9)
-
 <h2 align="center">𝕄𝕪 𝕤𝕥𝕒𝕥𝕚𝕤𝕥𝕚𝕔𝕤</h2>
 
 <div align="center">
@@ -24,4 +22,7 @@
 <br></br>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KateParfelova&theme=merko&radius=10&title_color=e4bf7a&color=e4bf7a&bg_color=282C34&line=81a36c&hide_border=true&point=df6d74" width="95%">
+</div>
+<div align="center">
+  [![Spotify](https://novatorem-kate.vercel.app/api/spotify)](https://open.spotify.com/user/ohvej2jr68p7h9g8yib1lfzl9)
 </div>
